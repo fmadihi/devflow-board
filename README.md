@@ -11,7 +11,7 @@ A modern Kanban board for developers built with **Next.js, TypeScript, Zustand, 
 https://devflow-board.vercel.app/
 
 ## Preview
-![DevFlow Screenshot](./screenshot.png)
+![DevFlow Screenshot](./devFlow-board.png)
 
 ## Features
 - Drag & drop task management with **dnd-kit**
