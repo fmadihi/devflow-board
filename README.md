@@ -12,9 +12,9 @@ https://devflow-board.vercel.app/
 
 ## Preview
 ![DevFlow Screenshot](./devFlow-board.PNG)
-<div align="center">
-  <img src="./devFlow-board.PNG" alt="DevFlow Screenshot" width="800"
-       style="border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);" />
+<div align="center" style="background:#f9fafb; padding:20px; border-radius:16px;">
+  <img src="./devFlow-board.PNG" width="900"
+       style="border-radius:12px; box-shadow:0 20px 40px rgba(0,0,0,0.15);" />
 </div>
 
 ## Features
