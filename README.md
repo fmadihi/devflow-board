@@ -12,6 +12,8 @@ https://devflow-board.vercel.app/
 
 ## Preview
 ![DevFlow Screenshot](./devFlow-board.PNG)
+![DevFlow Screenshot](./devFlow-board.PNG)
+![DevFlow Screenshot](./devFlow-board.PNG)
 
 ## Features
 - Drag & drop task management with **dnd-kit**
